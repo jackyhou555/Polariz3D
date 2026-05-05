@@ -1,0 +1,6 @@
+{
+  "name": "Polariz3D",
+  "description": "A 3D visualization tool for generating and exporting 2D diagrams of polarized electromagnetic waves with sine-wave vector fields.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
