@@ -12,6 +12,7 @@ This project contains everything you need to run your app locally.
 ## 🚀 快速上手步驟 (Run Locally)
 
 **Prerequisites:** Node.js
+
 請先確認有無安裝好Node.js，沒有可至官網下載。輸入以下指令確認是否已安裝：
 ```bash
 node -v
