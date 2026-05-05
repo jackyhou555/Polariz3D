@@ -12,33 +12,28 @@ This project contains everything you need to run your app locally.
 ## 🚀 快速上手步驟 (Run Locally)
 
 **Prerequisites:** Node.js
+請先確認有無安裝好Node.js，沒有可至官網下載。輸入以下指令確認是否已安裝：
+```bash
+node -v
+npm -v
+```
 
 1. **下載專案 (Clone Repository)**
    ```bash
-   git clone [https://github.com/jackyhou555/Polariz3D.git](https://github.com/jackyhou555/Polariz3D.git)
+   git clone https://github.com/jackyhou555/Polariz3D.git
    cd Polariz3D
    ```
 
 2. **安裝依賴套件 (Install Dependencies)**
    ```bash
    npm install
-   
-```
+   ```
 
-3. **設定環境變數 (Set Environment Variables)**
-   在專案根目錄建立一個名為 `.env.local` 的檔案，並填入你的 Gemini API Key：
-   ```env
-   GEMINI_API_KEY=你的_API_KEY
-   
-```
-
-4. **啟動應用程式 (Run the App)**
+3. **啟動應用程式 (Run the App)**
    ```bash
-   npm run dev
-   
-```
-   啟動後，請在瀏覽器打開：`http://localhost:5173`
-
+   npm run dev  
+   ```
+   啟動後，會看到一串網址，打開瀏覽器輸入網址即可使用
 ---
 
 ## 🛑 如何關閉 (How to Stop)
